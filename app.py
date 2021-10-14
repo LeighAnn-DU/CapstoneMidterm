@@ -288,7 +288,7 @@ st.plotly_chart(fig15)
 st.markdown("## Data Analysis")
 st.markdown(" ")
 st.image("Classifier Comparison.png")
-st.markdown("* The Random Forest model was able to predict flight delays with 92% accuracy.")
+st.markdown("* The Random Forest model was able to predict flight delays with 93% accuracy.")
 
 st.markdown("## Looking at the Results")
 st.markdown("* A similar dataset of flights in January 2020 was cleaned and prepared.")
